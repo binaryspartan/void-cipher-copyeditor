@@ -1,0 +1,3 @@
+[submodule "docs/universe"]
+	path = docs/universe
+	url = https://github.com/binaryspartan/void-cipher-universe.git
